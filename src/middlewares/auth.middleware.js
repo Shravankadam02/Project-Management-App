@@ -27,7 +27,7 @@ export const verifyJWTtoken = asyncHandler(async (req, res, next) => {
 });
 
 export const validateProjectPermission = (roles = []) => { 
-    asyncHandler(async (req, res, next) => {
+    return asyncHandler(async (req, res, next) => {
         const { projectId } = req.params;
 
 

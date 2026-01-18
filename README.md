@@ -133,4 +133,10 @@ Ready for Frontend Integration 🚀
 
 🧑‍💻 Author
 
+<<<<<<< HEAD
 Shravan Kadam
+=======
+Shravan Kadam
+
+
+>>>>>>> 1eaf6a347f08dcb95030cc528960a2ca8719488a
